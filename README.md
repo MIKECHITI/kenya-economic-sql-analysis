@@ -9,7 +9,7 @@
 
 > An interactive data storytelling portfolio built with React + TypeScript, visualising **15 advanced SQL queries** on Kenya's macroeconomic indicators (2000–2023) sourced from the World Bank.
 
-**[🔗 Live Site](#)** · **[📊 SQL Analysis Repo](https://github.com/MIKECHITI/kenya-economic-sql-analysis)** · **[👤 Portfolio](https://mwombemichael.vercel.app)**
+**[🔗 Live Site](https://kenya-economic-sql-analysis.vercel.app/)** · **[📊 SQL Analysis Repo](https://github.com/MIKECHITI/kenya-economic-sql-analysis)** · **[👤 Portfolio](https://mwombemichael.vercel.app)**
 
 ---
 
